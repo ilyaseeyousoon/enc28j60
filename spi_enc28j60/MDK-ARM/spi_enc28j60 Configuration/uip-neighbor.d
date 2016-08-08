@@ -1,0 +1,13 @@
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\uip-neighbor.c
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\uip-neighbor.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\uip.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\uipopt.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\uip-conf.h
+spi_enc28j60 configuration\uip-neighbor.o: D:\2\ARM\ARMCC\Bin\..\include\stdint.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\..\spi_enc28j60\hello-world.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\uipopt.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\psock.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\pt.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\lc.h
+spi_enc28j60 configuration\uip-neighbor.o: ..\uIP\lc-switch.h
+spi_enc28j60 configuration\uip-neighbor.o: D:\2\ARM\ARMCC\Bin\..\include\string.h

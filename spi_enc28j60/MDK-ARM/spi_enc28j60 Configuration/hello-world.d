@@ -1,0 +1,12 @@
+spi_enc28j60 configuration\hello-world.o: ..\hello-world.c
+spi_enc28j60 configuration\hello-world.o: ..\hello-world.h
+spi_enc28j60 configuration\hello-world.o: ..\uIP\uipopt.h
+spi_enc28j60 configuration\hello-world.o: ..\uIP\uip-conf.h
+spi_enc28j60 configuration\hello-world.o: D:\2\ARM\ARMCC\Bin\..\include\stdint.h
+spi_enc28j60 configuration\hello-world.o: ..\..\spi_enc28j60\hello-world.h
+spi_enc28j60 configuration\hello-world.o: ..\uIP\psock.h
+spi_enc28j60 configuration\hello-world.o: ..\uIP\pt.h
+spi_enc28j60 configuration\hello-world.o: ..\uIP\lc.h
+spi_enc28j60 configuration\hello-world.o: ..\uIP\lc-switch.h
+spi_enc28j60 configuration\hello-world.o: ..\uIP\uip.h
+spi_enc28j60 configuration\hello-world.o: D:\2\ARM\ARMCC\Bin\..\include\string.h

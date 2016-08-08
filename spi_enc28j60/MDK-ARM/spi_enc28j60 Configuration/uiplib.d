@@ -1,0 +1,12 @@
+spi_enc28j60 configuration\uiplib.o: ..\uIP\uiplib.c
+spi_enc28j60 configuration\uiplib.o: ..\uIP\uip.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\uipopt.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\uip-conf.h
+spi_enc28j60 configuration\uiplib.o: D:\2\ARM\ARMCC\Bin\..\include\stdint.h
+spi_enc28j60 configuration\uiplib.o: ..\..\spi_enc28j60\hello-world.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\uipopt.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\psock.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\pt.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\lc.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\lc-switch.h
+spi_enc28j60 configuration\uiplib.o: ..\uIP\uiplib.h

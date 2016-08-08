@@ -1,0 +1,15 @@
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uip-split.c
+spi_enc28j60 configuration\uip-split.o: D:\2\ARM\ARMCC\Bin\..\include\string.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uip-split.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uip.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uipopt.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uip-conf.h
+spi_enc28j60 configuration\uip-split.o: D:\2\ARM\ARMCC\Bin\..\include\stdint.h
+spi_enc28j60 configuration\uip-split.o: ..\..\spi_enc28j60\hello-world.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uipopt.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\psock.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\pt.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\lc.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\lc-switch.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uip-fw.h
+spi_enc28j60 configuration\uip-split.o: ..\uIP\uip_arch.h
